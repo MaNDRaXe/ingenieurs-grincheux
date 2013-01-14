@@ -253,7 +253,7 @@ Assurez-vous que vos développeurs ont chaque jour une plage ininterrompue d'au 
 Tâchez aussi d'avoir au moins une journée sans réunion par semaine. Pas même de stand-up quotidien (NdT : courte réunion quotidienne au cours de laquelle les participants à un projet disent ce qu'ils sont en train de faire ; cette réunion a lieu debout afin d'en limiter la durée, d'où le nom). Contentez-vous de laisser aux développeurs le soin de gérer leur temps par eux-même ce jour là et de faire ce qui doit l'être. C'est absolument incroyable tout ce que l'on peut faire en une journée lorsqu'il n'y a aucune interruption. À une certaine période de ma carrière, mon responsable m'a imposé de travailler de chez moi deux jours par semaine parce que j'étais constamment interrompu lorsque j'étais au bureau. Résultat : je terminais mon travail très vite.
 
 
-Exprimer votre satisfaction
+Exprimez votre satisfaction
 ===========================
 
 Il s'agit là de quelque chose qui peut être mis en oeuvre immédiatement et qui est vraiment efficace. J'ai mentionné précédemment la frustration de suer pour terminer une tâche et de ne recevoir comme retour que des rapports de bug. En tant que développeurs nous avons rarement l'opportunité de nous enfoncer dans notre fauteuil, admirer le résultat de notre travail et recevoir une tape dans le dos de quelqu'un.
