@@ -3,7 +3,7 @@ Soin et alimentation des ingénieurs informatique (ou pourquoi les ingénieurs s
 ############################################################################################
 
 :date: 2012-07-19 20:04
-:tags: traduction, développeurs 
+:tags: traduction, développeurs
 :category: Informatique
 :author: MaNDRaXe
 :slug: ingenieurs-grincheux
@@ -93,7 +93,7 @@ Priorités numéro un
 
 Le changement de contexte est l'ennemi de tout créatif. Une fois plongé dans un mode créatif, "le flux" comme certains l'appellent, le fait d'être dérangé pour se focaliser sur autre chose interrompt totalement le processus. Oui, écrire du code est un processus créatif. C'est à la fois logique et créatif. Nous n'écrivons pas simplement du code, nous le forgeons.
 
-Il semble communément admis chez les gens qui gèrent le temps de travail de développeurs qu'il est facile de passer d'une tâche à une autre. Après tout, comme certains me l'ont déjà dit, du travail c'est du travail. Vous l'orientez dans la direction nécessaire comme un canon et feu. Bien sûr c'est totalement erroné. Si vous consacrez beaucoup de temps à une tâche et qu'il vous est demandé de la laisser de côté pour faire autre chose, il n'est pas simple d'y revenir et de reprendre là ou vous en étiez. Cela nécessite un temps de ré-acclimatation en revenant sur la première tâche pour se remettre dans le contexte, et c'est là le coût du changement de contexte. Même si la nouvelle tâche ne demande que quelques minutes, c'est suffisant pour interrompre le flux et cela rend les développeurs moins productifs.
+Il semble communément admis chez les gens qui gèrent le temps de travail de développeurs qu'il est facile de passer d'une tâche à une autre. Après tout, comme certains me l'ont déjà dit, du travail c'est du travail. Vous l'orientez dans la direction nécessaire comme un canon et feu. Bien sûr c'est totalement erroné. Si vous consacrez beaucoup de temps à une tâche et qu'il vous est demandé de la laisser de côté pour faire autre chose, il n'est pas simple d'y revenir et de reprendre là où vous en étiez. Cela nécessite un temps de ré-acclimatation en revenant sur la première tâche pour se remettre dans le contexte, et c'est là le coût du changement de contexte. Même si la nouvelle tâche ne demande que quelques minutes, c'est suffisant pour interrompre le flux et cela rend les développeurs moins productifs.
 
 Il s'agit là de l'une des choses qui rend les développeurs le plus grincheux : changer constamment les priorités. Si quelque chose est prioritaire un jour et qu'autre chose l'est le lendemain, cela signifie immanquablement un changement de contexte. Les créatifs n'aiment pas être interrompus avant d'avoir fini, c'est pourquoi les développeurs sont capables de travailler jusqu'à l'aube pour terminer ce qu'ils sont en train de faire. Interrompre le flux nous rend moins productif.
 
@@ -117,7 +117,7 @@ Les cours d'informatique durant les études ne vous préparent pas à affronter 
 
 Nous sortons donc des études en pensant que nous savons tout faire alors qu'en réalité nous ne savons faire que ce qui a déjà été fait. En fait, nous connaissons une petite partie de ce qui à déjà été fait. Et pourtant nous nous comportons comme  si nous connaissions tout, supposant ainsi une connaissance parfaite, et fournissant des estimations de temps qui sont bien trop courtes car nous ne prenons pas en compte l'apprentissage.
 
-Une autre partie du problème est nichée dans nos fragiles egos. Nous avons peur que si nous donnons une estimation "trop longue", nous baissions dans l'estime des gens. Ils nous disent que les "bons développeurs" sont ceux qui travaillent le plus vite, et nous acquiesçons. J'ai toujours été fasciné lorsqu'une estimation est faite sur un projet et qu'un non développeur revient et dit que celle-ci est trop longue. Pour commencer, comme je l'ai mentionné plus haut, elle est déjà probablement trop courte à cause de notre défaut. Ensuite, comment un non développeur pourrait bien savoir combien de temps sera nécessaire pour implémenter quelque chose ? Et cela nous conduit à un autre problème. 
+Une autre partie du problème est nichée dans nos fragiles egos. Nous avons peur que si nous donnons une estimation "trop longue", nous baissions dans l'estime des gens. Ils nous disent que les "bons développeurs" sont ceux qui travaillent le plus vite, et nous acquiesçons. J'ai toujours été fasciné lorsqu'une estimation est faite sur un projet et qu'un non développeur revient et dit que celle-ci est trop longue. Pour commencer, comme je l'ai mentionné plus haut, elle est déjà probablement trop courte à cause de notre défaut. Ensuite, comment un non développeur pourrait bien savoir combien de temps sera nécessaire pour implémenter quelque chose ? Et cela nous conduit à un autre problème.
 
 
 J'ai déjà codé
