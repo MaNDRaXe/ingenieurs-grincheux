@@ -186,7 +186,7 @@ Compte tenu de tout ce que j'ai déjà mentionné, voici les raisons classiques 
 - La demande augmente la quantité du travail qui doit être fait avant la livraison.
 - Nous sommes tellement épuisés que toute demande est perçue comme une tonne de travail supplémentaire et nous ne voulons simplement pas en supporter plus.
 
-Gardez à l'esprit que toutes ces raisons, exceptée la dernière, sont liées au rapport qu'entretient l'ingénieur et la date de livraison de son projet. Nous voulons que les tâches se terminent, et la seule façon d'y parvenir, c'est de ne pas les changer pendant que nous travaillons dessus. Quand un changement survient, c'est là que nous devenons réellement grincheux, et que le "non" arrive, sortant de nos bouches avant même que vous ayez fini votre phrase.
+Gardez à l'esprit que toutes ces raisons, exceptée la dernière, sont liées au rapport qu'entretient l'ingénieur à la date de livraison de son projet. Nous voulons que les tâches se terminent, et la seule façon d'y parvenir, c'est de ne pas les changer pendant que nous travaillons dessus. Quand un changement survient, c'est là que nous devenons réellement grincheux, et que le "non" arrive, sortant de nos bouches avant même que vous ayez fini votre phrase.
 
 
 Soin et alimentation
