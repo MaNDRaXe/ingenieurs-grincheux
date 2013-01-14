@@ -156,7 +156,7 @@ Si je résume, sans assez d'information, avec des prérequis qui changent, un so
 
 .. html :: <blockquote class="twitter-tweet"><p>I can&#8217;t state this enough: Programmers don&#8217;t burn out on hard work, they burn out on change-with-the-wind directives and not &#8216;shipping&#8217;.</p><p>&mdash; Mark Berry (@markab) <a href="https://twitter.com/markab/status/181452969391292417" data-datetime="2012-03-18T18:52:13+00:00">March 18, 2012</a></p></blockquote><p><script src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
-**Traduction** : *"Je ne le dirai jamais assez : un ingénieur ne s'épuise pas à cause d'un travail trop dur, il s'épuise à cause des changements de direction incessants, ainsi que sur le fait de ne pas livrer."*
+**Traduction** : *"Je ne le dirai jamais assez : un ingénieur ne s'épuise pas à cause d'un travail trop dur, il s'épuise à cause des changements de direction incessants, et du fait de ne pas livrer."*
 
 Quand il y a des retards à cause de changement d'avis, nous devenons grincheux. Incroyablement grincheux. Notre objectif de proposer le fruit de notre travail aux gens s'en trouve différé, et c'est démoralisant. Et pourtant, un développeur n'a rien d'un perfectionniste. Nous sommes souvent partant pour sortir quelque chose de juste bien, plutôt que continuer à travailler sur quelque chose de mieux, mais qui ne sort pas. Nous aimons construire des petites choses afin de les sortir rapidement, pour plus tard pouvoir les combiner ensemble en quelque chose de plus grand. Pourquoi ? Parce que c'est ainsi que nous pouvons toucher les gens.
 
