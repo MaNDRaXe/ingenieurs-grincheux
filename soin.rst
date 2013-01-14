@@ -268,7 +268,7 @@ Et s'il vous plaît, lorsque vous remerciez les gens pour leur travail, n'oublie
 Conclusion
 ==========
 
-Nous, les développeurs, sommes une espèce intéressante. Nous sommes dotés d'une personnalité particulière, et désirons vraiment faire les choses du mieux possible. Si vous arrêtez de nous traiter comme des exécutants et commencez à nous traiter comme faisant partie du processus créatif, vous obtiendrez probablement plus et bien plus vite. Les équipes dans lesquelles j'ai travaillé ont toutes connues des frictions à divers degrés par manque de compréhension de l'état d'esprit des développeurs et de ce qui les motive. J'espère sincèrement que cet article permettra une meilleure communication entre les ingénieurs et ceux qui travaillent avec. Ce n'est vraiment pas si difficile. Nous voulons tous faire partie de la solution plutôt que d'être une abeille ouvrière.
+Nous, les développeurs, sommes une espèce intéressante. Nous sommes dotés d'une personnalité particulière, et désirons vraiment faire les choses du mieux possible. Si vous arrêtez de nous traiter comme des exécutants et commencez à nous traiter comme faisant partie du processus créatif, vous obtiendrez probablement plus et bien plus vite. Les équipes dans lesquelles j'ai travaillé ont toutes connu des frictions à divers degrés par manque de compréhension de l'état d'esprit des développeurs et de ce qui les motive. J'espère sincèrement que cet article permettra une meilleure communication entre les ingénieurs et ceux qui travaillent avec. Ce n'est vraiment pas si difficile. Nous voulons tous faire partie de la solution plutôt que d'être une abeille ouvrière.
 
 
 Références
