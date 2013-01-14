@@ -97,7 +97,7 @@ Il semble communément admis chez les gens qui gèrent le temps de travail de d�
 
 Il s'agit là de l'une des choses qui rend les développeurs le plus grincheux : changer constamment les priorités. Si quelque chose est prioritaire un jour et qu'autre chose l'est le lendemain, cela signifie immanquablement un changement de contexte. Les créatifs n'aiment pas être interrompus avant d'avoir fini, c'est pourquoi les développeurs sont capables de travailler jusqu'à l'aube pour terminer ce qu'ils sont en train de faire. Interrompre le flux nous rend moins productif.
 
-Les vraies priorités ne changent pas, elles sont figées. La fréquence à laquelle les gens au-dessus de nous changent d'avis est incroyablement frustrant pour les développeurs. Nous sommes, la plupart du temps, prêt à monter au front pourvu que l'on nous indique la direction à suivre. Mais si vous nous dites un jour que l'on construit une maison puis le lendemain que l'on construit une voiture, il faut vous attendre à quelques dissensions dans les rangs.
+Les vraies priorités ne changent pas, elles sont figées. La fréquence à laquelle les gens au-dessus de nous changent d'avis est incroyablement frustrante pour les développeurs. Nous sommes, la plupart du temps, prêt à monter au front pourvu que l'on nous indique la direction à suivre. Mais si vous nous dites un jour que l'on construit une maison puis le lendemain que l'on construit une voiture, il faut vous attendre à quelques dissensions dans les rangs.
 
 
 Le défaut des développeurs
