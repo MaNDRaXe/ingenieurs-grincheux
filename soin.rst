@@ -214,7 +214,7 @@ Les ingénieurs sont très logiques. Ainsi, en étant dans ces réunions prélim
 
 De plus, les ingénieurs sont souvent très en avance en termes de connaissance de ce qui est possible. Si vous prenez les développeurs d'interfaces, nous savons ce que les navigateurs peuvent faire bien avant les chefs de produit ou les designers. Quand nous partageons ce savoir, nous donnons en fait à tous de nouvelles idées sur comment construire un projet, partant de ce qu'il est possible de faire. Imaginez si vous essayez de créer un site de partage de photo, sans savoir que vous pouvez maintenant effectuer un glisser-déposer de fichiers depuis votre bureau vers le navigateur, afin d'envoyer le fichier au serveur [2]_ ? Sans cette information, imaginez à quel point le produit final s'en trouverait modifié.
 
-Donc, invitez les ingénieurs dans le processus de création, le plus tôt possible. Laissez les vous faire un retour et vous donner des informations sur ce qu'il est possible de faire. Moins notre conduite nous est dictée, plus nous sommes à l'écoute et heureux dans notre travail. Nous donner le sentiment d'avoir contribué à la création du produit est le seul moyen d'y arriver vraiment.
+Donc, invitez les ingénieurs dans le processus de création, le plus tôt possible. Laissez-les vous faire un retour et vous donner des informations sur ce qu'il est possible de faire. Moins notre conduite nous est dictée, plus nous sommes à l'écoute et heureux dans notre travail. Nous donner le sentiment d'avoir contribué à la création du produit est le seul moyen d'y arriver vraiment.
 
 
 Aménager un environnement créatif
