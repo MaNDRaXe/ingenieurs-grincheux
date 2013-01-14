@@ -133,7 +133,7 @@ Voici quelques énormités énoncées par des non-développeurs :
 
 La pire chose que vous puissiez faire à un ingénieur, c'est lui dire que vous avez déjà développé. C'est un peu différent pour quelqu'un qui a réellement été ingénieur dans sa carrière. Dans ce cas, la personne dispose d'une crédibilité naturelle, mais limitée dans le temps (disons 5 ans ; au delà, tout aura changé). Mais quelqu'un qui n'a jamais développé professionnellement, ferait mieux de garder pour lui ses talents de bidouilleur, plutôt que de s'en servir pour donner son avis sur un développement.
 
-(Soyons honnêtes, les designers sont également touchés par le problème. Chacun se pense expert en design car tout le monde aime les jolis choses. Ça ne fait pas de nous des experts pour designer quoi que ce soit).
+(Soyons honnêtes, les designers sont également touchés par le problème. Chacun se pense expert en design car tout le monde aime les jolies choses. Ça ne fait pas de nous des experts pour designer quoi que ce soit).
 
 
 Plus de cuistots
