@@ -256,7 +256,7 @@ Tâchez aussi d'avoir au moins une journée sans réunion par semaine. Pas même
 Exprimez votre satisfaction
 ===========================
 
-Il s'agit là de quelque chose qui peut être mis en oeuvre immédiatement et qui est vraiment efficace. J'ai mentionné précédemment la frustration de suer pour terminer une tâche et de ne recevoir comme retour que des rapports de bug. En tant que développeurs nous avons rarement l'opportunité de nous enfoncer dans notre fauteuil, admirer le résultat de notre travail et recevoir une tape dans le dos de quelqu'un.
+Il s'agit là de quelque chose qui peut être mis en œuvre immédiatement et qui est vraiment efficace. J'ai mentionné précédemment la frustration de suer pour terminer une tâche et de ne recevoir comme retour que des rapports de bug. En tant que développeurs nous avons rarement l'opportunité de nous enfoncer dans notre fauteuil, admirer le résultat de notre travail et recevoir une tape dans le dos de quelqu'un.
 
 Quand un développeur termine une tâche, surtout une longue, un petit mot pour dire merci aura un très grand effet. Un simple "Hé, merci d'avoir terminé. On va jeter un oeil" fera disparaître la position défensive qui apparaît typiquement lorsque les rapports de bugs commencent à arriver. Se sentir apprécié est important pour les développeurs car la plupart des retours que nous recevons sont négatifs, sous la forme de bugs, de problèmes d'exploitation ou autre. Un peu de retour positif rend le reste moins pesant.
 
