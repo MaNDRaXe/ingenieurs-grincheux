@@ -200,7 +200,7 @@ Revoyons un instant ce qui fait avancer les ingénieurs :
 - Résoudre des problèmes
 - Avoir une incidence sur la vie des gens
 
-Notez une absente dans cette liste. L'argent. Donner bêtement de l'argent à un ingénieur ne le satisfera que rarement. Cela fait cliché, mais ça n'a rien à voir avec l'argent. L'argent permet de s'amuser, mais ce qui nous intéresse vraiment c'est le code et la création. Lorsque nous pouvons le faire dans un environnement sain, nous sommes heureux, et pour très longtemps.
+Notez un absent dans cette liste. L'argent. Donner bêtement de l'argent à un ingénieur ne le satisfera que rarement. Cela fait cliché, mais ça n'a rien à voir avec l'argent. L'argent permet de s'amuser, mais ce qui nous intéresse vraiment c'est le code et la création. Lorsque nous pouvons le faire dans un environnement sain, nous sommes heureux, et pour très longtemps.
 
 Alors, comment allez-vous créer un environnement sain pour les ingénieurs ?
 
