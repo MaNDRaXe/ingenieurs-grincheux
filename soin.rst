@@ -133,7 +133,7 @@ Voici quelques énormités énoncées par des non-développeurs :
 
 La pire chose que vous puissiez faire à un ingénieur, c'est lui dire que vous avez déjà développé. C'est un peu différent pour quelqu'un qui a réellement été ingénieur dans sa carrière. Dans ce cas, la personne dispose d'une crédibilité naturelle, mais limitée dans le temps (disons 5 ans ; au delà, tout aura changé). Mais quelqu'un qui n'a jamais développé professionnellement, ferait mieux de garder pour lui ses talents de bidouilleur, plutôt que de s'en servir pour donner son avis sur un développement.
 
-(Soyons honnêtes, les designers sont également touchés par le problème. Chacun se pense expert en design car tout le monde aime les jolis choses. Ça ne fait pas de nous des experts pour designer quoi que ce soit).
+(Soyons honnêtes, les designers sont également touchés par le problème. Chacun se pense expert en design car tout le monde aime les jolies choses. Ça ne fait pas de nous des experts pour designer quoi que ce soit).
 
 
 Plus de cuistots
@@ -156,7 +156,7 @@ Si je résume, sans assez d'information, avec des prérequis qui changent, un so
 
 .. html :: <blockquote class="twitter-tweet"><p>I can&#8217;t state this enough: Programmers don&#8217;t burn out on hard work, they burn out on change-with-the-wind directives and not &#8216;shipping&#8217;.</p><p>&mdash; Mark Berry (@markab) <a href="https://twitter.com/markab/status/181452969391292417" data-datetime="2012-03-18T18:52:13+00:00">March 18, 2012</a></p></blockquote><p><script src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
-**Traduction** : *"Je ne le dirai jamais assez : un ingénieur ne s'épuise pas à cause d'un travail trop dur, il s'épuise à cause des changements de direction incessants, ainsi que sur le fait de ne pas livrer."*
+**Traduction** : *"Je ne le dirai jamais assez : les développeurs ne s'épuisent pas à cause d'un travail trop dur, ils s'épuisent à cause des changements de direction incessants, ainsi que sur le fait de ne pas livrer."*
 
 Quand il y a des retards à cause de changement d'avis, nous devenons grincheux. Incroyablement grincheux. Notre objectif de proposer le fruit de notre travail aux gens s'en trouve différé, et c'est démoralisant. Et pourtant, un développeur n'a rien d'un perfectionniste. Nous sommes souvent partant pour sortir quelque chose de juste bien, plutôt que continuer à travailler sur quelque chose de mieux, mais qui ne sort pas. Nous aimons construire des petites choses afin de les sortir rapidement, pour plus tard pouvoir les combiner ensemble en quelque chose de plus grand. Pourquoi ? Parce que c'est ainsi que nous pouvons toucher les gens.
 
@@ -170,7 +170,7 @@ En tant que développeur, notre travail se déroule selon un rythme très diffé
 
 Pourtant vous entendrez rarement des ingénieurs se plaindre des horaires à rallonge ou de devoir se lever au milieu de la nuit à cause d'un problème en production. Le logiciel est notre bébé et nous aimons en prendre soin. Cela signifie que si il faut le nourrir au milieu de la nuit, nous le faisons. Si il a besoin d'un peu plus d'attention pendant le week-end, nous le faisons aussi et tout cela avec le sourire car notre création grandit.
 
-Les développeurs sont heureux quand ils mettent la touche finale aux derniers octets du code d'une tâche. Je n'ai jamais vu un développeur aussi joyeux que quand il envoie un email pour dire qu'il a fini quelque chose et que c'est prêt à être testé. Pourtant cet joie se volatilise rapidement lorsqu'au cours des dix minutes qui suivent, les rapports de bugs sont envoyés concernant son tout nouveau bébé.
+Les développeurs sont heureux quand ils mettent la touche finale aux derniers octets du code d'une tâche. Je n'ai jamais vu un développeur aussi joyeux que quand il envoie un email pour dire qu'il a fini quelque chose et que c'est prêt à être testé. Pourtant cette joie se volatilise rapidement lorsqu'au cours des dix minutes qui suivent, les rapports de bugs sont envoyés concernant son tout nouveau bébé.
 
 Essayez d'imaginer cela une seconde. Vous avez travaillé pendant une journée, une semaine ou plusieurs semaines sur quelque chose et vous venez de le terminer. Vous êtes fier car vous avez accompli la tâche que l'on vous avait confié, vous avez probablement appris des choses que vous ne connaissiez pas auparavant. Tout ce à quoi vous aspirez c'est de prendre un peu de temps pour admirer votre travail. Peut-être même que quelqu'un vous dise "bon boulot". Et qu'obtenez vous ? Des bugs. Telle chose ne fonctionne pas, telle autre chose n'est pas à sa place et ainsi de suite. Notre bonne humeur s'envole aussi vite que nous nous attelons à réparer ce qui ne va pas.
 
