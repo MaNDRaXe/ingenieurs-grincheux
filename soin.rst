@@ -51,7 +51,7 @@ J'ai une théorie. Cette théorie est que les développeurs se perçoivent d'une
 
 Il s'agit de quelque chose contre quoi mon tout premier responsable m'a mis en garde. Lorsque la première entreprise dans laquelle j'ai travaillé a fermé, nous avons eu une discussion franche concernant ma carrière. Bien que nous n'ayons pas toujours été en accord, il m'a donné un excellent conseil (que je paraphrase ici) :
 
-	*Nicholas, tu vaux mieux que ton code. Quelque soit la suite de tes aventures, assure-toi de ne pas être un simple exécutant. N'accepte pas un poste où l'on te dise exactement ce que tu dois faire et comment le faire. Tu as besoin de travailler dans un environnement qui apprécie tes propositions autant que ta capacité à les réaliser.*
+    *Nicholas, tu vaux mieux que ton code. Quelle que soit la suite de tes aventures, assure-toi de ne pas être un simple exécutant. N'accepte pas un poste où l'on te dit exactement ce que tu dois faire et comment le faire. Tu as besoin de travailler dans un environnement qui apprécie tes propositions autant que ta capacité à les réaliser.*
 
 Il avait tout à fait raison. De nombreuses sociétés veulent des exécutants, ils veulent des programmeurs et des ouvriers qui marchent au pas et restent dans le rang. À vrai dire je dirais que la plupart des sociétés veulent ça, qu'elles soient grandes ou petites. Je ne pourrais dénombrer la quantité de start-ups qui m'ont contacté pour m'offrir d'être associé en échange du développement de la vision du fondateur. Sous-entendu : nous savons déjà exactement ce que nous voulons faire, nous avons juste besoin de quelqu'un pour l'exécuter.
 
