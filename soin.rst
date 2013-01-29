@@ -103,7 +103,7 @@ Les vraies priorités ne changent pas, elles sont figées. La fréquence à laqu
 Le défaut des développeurs
 ==========================
 
-Les développeurs sont mis en position difficile tous les jours, mais nous ne sommes tout de même pas des victimes, même si les plus mélodramatiques d'entre nous ont tendances à agir comme tels. Si nous sommes grincheux c'est en partie à cause de nous même et de quelque chose qui est profondément ancré en la majorité des développeurs. Nous sommes affligés d'un défaut tragique : nous surestimons nos connaissances et nos capacités.
+Les développeurs sont mis en position difficile tous les jours, mais nous ne sommes tout de même pas des victimes, même si les plus mélodramatiques d'entre nous ont tendance à agir comme tels. Si nous sommes grincheux c'est en partie à cause de nous même et de quelque chose qui est profondément ancré en la majorité des développeurs. Nous sommes affligés d'un défaut tragique : nous surestimons nos connaissances et nos capacités.
 
 Ce défaut se manifeste de plusieurs manières. La plus fréquente apparaît dans les estimations de temps. Presque tous les ingénieurs que je connais sous-estiment systématiquement le temps qu'il leur sera nécessaire pour accomplir une tâche ou une série de tâches. Seuls les meilleurs des meilleurs sont capables de fournir une estimation de temps précise et de s'y tenir, alors que les autres se trompent parfois d'un facteur 2 voir plus. Le problème est qu'en tant que créatifs, les développeurs n'arrivent pas à prévoir les problèmes qu'ils vont rencontrer.
 
