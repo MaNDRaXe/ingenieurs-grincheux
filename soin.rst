@@ -71,7 +71,7 @@ Pour comprendre le problème, imaginez-vous devoir construire une maison. Quelqu
 
 Normalement, vous ne devriez pas pouvoir commencer à construire la maison avec ces éléments là. Vous ne connaissez pas la superficie, vous ne disposez pas des plans intérieurs, vous ne connaissez même pas le code d'urbanisme à respecter pour la construction d'une maison. Il n'y a vraiment pas assez d'information pour commencer, ne serait-ce qu'à creuser les fondations. A ce moment vous allez dire à votre client qu'il est inconscient et doit savoir exactement ce qu'il veut. Maintenant, imaginez que vous ne puissiez pas le faire car quelqu'un a déterminé une date de livraison que vous êtes responsable de tenir.
 
-"Hé bien", dit le client, "pourquoi ne commencez-vous donc pas à construire et je vous fournirai les détails au fur et à mesure. Comme ça on ne perd pas de temps."
+"Hé bien", dit le client, "pourquoi ne commenceriez-vous donc pas à construire; je vous fournirai les détails au fur et à mesure. Comme ça on ne perd pas de temps."
 
 Vous savez qu'il vous manque des informations pour commencer la construction, mais que continuer à questionner le client ne vous fournira pas plus d'éléments dans l'immédiat. Que faites-vous ? Vous commencez à faire des suppositions.
 
