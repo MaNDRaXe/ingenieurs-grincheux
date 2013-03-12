@@ -37,7 +37,7 @@ Elle préconise notamment aux ingénieurs de ne pas dire "non" si vite. Cela m'a
 Notre réputation
 ================
 
-Jouons carte sur table, les développeurs ont généralement la réputation d'être arrogants, désagréables et lunatiques. Nous avons aussi la réputation de dire "non", de débattre de détails insignifiants et de prétendre savoir mieux faire le travail de n'importe qui d'autre mieux que lui. En général cette réputation est justifiée. C'est exactement ce que nous faisons presque tous les jours, tout comme nous codons tout en surveillant Twitter et Hacker News (NdT : site d'information concernant le développement informatique).
+Jouons cartes sur table, les développeurs ont généralement la réputation d'être arrogants, désagréables et lunatiques. Nous avons aussi la réputation de dire "non", de débattre de détails insignifiants et de prétendre savoir mieux faire le travail de n'importe qui d'autre mieux que lui. En général cette réputation est justifiée. C'est exactement ce que nous faisons presque tous les jours, tout comme nous codons tout en surveillant Twitter et Hacker News (NdT : site d'information concernant le développement informatique).
 
 (Note : Certains diront que ce n'est pas vrai de tous les développeurs et ils auront raison. Il y a un petit nombre de développeurs pour qui tout ou partie de ce qui vient d'être dit est faux. Mais s'il vous plaît, avant de descendre en bas de cet article et de poster un commentaire pour me dire à quel point tout cela est stupide, continuez la lecture.)
 
