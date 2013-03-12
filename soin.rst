@@ -237,7 +237,7 @@ L'usure du développeur a cela de singulier que nous avons l'habitude de passer 
 
 Incitez les ingénieurs à prendre du repos. Votre société donne des congés, alors assurez-vous que les développeurs utilisent ces jours de vacances pendant l'année. Une fois tous les 4 à 5 mois au minimum. Les managers sont les mieux placés pour gérer cela car ils connaissent les agendas des projets.
 
-Lorsque les ingénieurs prennent des jours à intervalle régulier, cela restaure leur côté créatif en les sortant de la rigueur nécessaire au respect des dates de livraison. Oui, il est possible que nous passions une partie de notre temps de repos à coder, mais il s'agit de nos propres créations et de ce fait c'est assez différent de ce que l'on fait au travail. C'est un élément important pour se changer les idées et se préparer pour la prochaine bataille.
+Lorsque les ingénieurs prennent des jours à intervalles réguliers, cela restaure leur côté créatif en les sortant de la rigueur nécessaire au respect des dates de livraison. Oui, il est possible que nous passions une partie de notre temps de repos à coder, mais il s'agit de nos propres créations et de ce fait c'est assez différent de ce que l'on fait au travail. C'est un élément important pour se changer les idées et se préparer pour la prochaine bataille.
 
 
 Laissez-les coder
