@@ -6,7 +6,7 @@ Soin et alimentation des ingénieurs informatique (ou pourquoi les ingénieurs s
 :tags: traduction, développeurs
 :category: Informatique
 :author: MaNDRaXe
-:slug: ingenieurs-grincheux
+:slug: ingénieurs-grincheux
 
 
 --------------------
@@ -31,7 +31,7 @@ Soin et alimentation des ingénieurs informatique (ou pourquoi les ingénieurs s
 Il n'y a pas si longtemps, Jenna Bilotta a écrit un excellent article intitulé "How designers and engineers can play nice" [1]_ (NdT: Comment faire travailler main dans la main designers et développeurs), dans lequel elle aborde les
 façons de faire travailler ensemble plus productivement les designers et les ingénieurs. Ayant été confronté aux mêmes soucis en travaillant avec des designers (mais aussi avec des ingénieurs lorsque j'étais du côté interface utilisateur), j'ai apprécié l'approche pragmatique qu'elle suggère. Il est toujours bénéfique de respecter les méthodes de travail des autres intervenants et de comprendre leur façon de penser lorsque l'on travaille ensemble.
 
-Elle préconise notamment aux ingénieurs de ne pas dire "non" si vite. Cela m'a interpelé et m'a trotté dans la tête un moment. Ma première réaction a été "mais vous ne comprenez pas pourquoi nous disons non !". Puis un million d'autres justifications me sont venues à l'esprit. En fait, elle a raison. Nous disons "non" très vite et pas seulement aux designers, mais à tout. Cela m'a amené à réfléchir à la psychologie des ingénieurs informatique et à ce qui fait que nous fonctionnons comme nous le faisons.
+Elle préconise notamment aux ingénieurs de ne pas dire "non" si vite. Cela m'a interpellé et m'a trotté dans la tête un moment. Ma première réaction a été "mais vous ne comprenez pas pourquoi nous disons non !". Puis un million d'autres justifications me sont venues à l'esprit. En fait, elle a raison. Nous disons "non" très vite et pas seulement aux designers, mais à tout. Cela m'a amené à réfléchir à la psychologie des ingénieurs informatique et à ce qui fait que nous fonctionnons comme nous le faisons.
 
 
 Notre réputation
