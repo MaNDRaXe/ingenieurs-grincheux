@@ -25,7 +25,7 @@ Si vous avez des améliorations à y apporter, n'hésitez pas à nous en faire p
 
 ----------------------------------
 
-Soin et alimentation des ingénieurs informatique (ou pourquoi les ingénieurs sont grincheux)
+Soin et alimentation des ingénieurs informatiques (ou pourquoi les ingénieurs sont grincheux)
 ============================================================================================
 
 Il n'y a pas si longtemps, Jenna Bilotta a écrit un excellent article intitulé "How designers and engineers can play nice" [1]_ (NdT: Comment faire travailler main dans la main designers et développeurs), dans lequel elle aborde les
